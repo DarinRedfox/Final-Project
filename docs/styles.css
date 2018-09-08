@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgb(238, 216, 216);
+    
 
 }
 
@@ -35,6 +35,7 @@ body
 body {
     background-color: #000000;
     color: ghostwhite;
+    background-color: rgb(238, 216, 216);
 }
 
 h1 {
