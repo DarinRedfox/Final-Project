@@ -1,65 +1,43 @@
-body
-{
-    
-
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: rgb(95, 157, 228);
-    overflow: hidden;
+background-color: rgb(95, 157, 228);
+overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 22px;
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 22px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: #ddd;
-    color: whitesmoke;
+background-color: #ddd;
+color: whitesmoke;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
+background-color: #4CAF50;
+color: white;
 }
 
 body {
-    background-color: #000000;
-    color: ghostwhite;
-    background-color: rgb(238, 216, 216);
+background-color: #000000;
+color: ghostwhite;
+width: 1000px;
+margin: 0 auto;
+}
+
+.main {
+font-size:x-large;    
 }
 
 h1 {
-    
-    color: gainsboro;
-}
-
-.main
-{
-    font-size:x-large;
-
-    
-}
-
-body
-
-{
-width: 1000px
-
-}
-
-h1
-
-{
 text-align: center
 }
 
@@ -76,7 +54,6 @@ width: 500px;
 }
 
 div.b {
-
-    text-align: center;
-    font-size: x-large;
+text-align: center;
+font-size: x-large;
 }
